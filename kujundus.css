@@ -1,0 +1,42 @@
+#pilt {
+  height: 450px;
+  width: 300px;
+}
+#pilt:hover {
+  cursor: wait;
+}
+body {
+  background-image: url("taust.jpg");
+  color: orange;
+}
+h1{
+  border-bottom: 1px solid green;
+  text-align: center;
+}
+.alguslopp {
+  text-align: center;
+  font-size: 150%;
+  font-style: italic;
+  font-family: sans-serif;
+}
+ol {
+  margin: auto;
+  width: 150px;
+  border:1px solid green;
+  border-radius: 5px;
+  list-style-type:decimal;
+}
+ol:hover {
+  border-color: red;
+}
+a {
+  color: red;
+  text-decoration: none;
+}
+a:hover {
+  color: white;
+  text-transform: uppercase;
+}
+h2 {
+  color: brown;
+}
